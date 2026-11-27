@@ -1,0 +1,6 @@
+{
+  "name": "AirAware AI",
+  "description": "Breathe Smarter. Live Healthier. Build a Cleaner Future. Intelligent urban air quality assistant with live AQI tracking, Gemini-powered coaching, daily routine planning, and eco-impact analytics.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
